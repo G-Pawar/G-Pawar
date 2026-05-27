@@ -1,4 +1,4 @@
-# Hi, I'm Gurpreet 👋
+# Hi, I'm Gurpreet 
 
 **MSci Computer Science graduate** (University of Birmingham, 62%) with a focus on **NLP, machine learning, and full-stack development**.
 
@@ -6,7 +6,7 @@ I'm currently upskilling toward a Data Science / ML Engineering role and activel
 
 ---
 
-## 🔬 What I've built
+## What I've built
 
 **AI/NLP Bibliography Ranker** (Masters project, 2024–25)
 A Python tool that ranks a research paper's references by semantic relevance using sentence-embedding models and the OpenAlex API. Evaluated on 10 paper pairs — surfaced the key antecedent citation first in most cases and within the top group in every case, outperforming keyword-based baselines.
@@ -16,7 +16,7 @@ Delivered a complete accessible web app from brief to release — Django backend
 
 ---
 
-## 🛠 Tech stack
+## Tech stack
 
 **Languages:** Python · Java · C/C++ · JavaScript/TypeScript · SQL
 **Data & ML:** NumPy · Pandas · Scikit-learn · sentence-transformers · NLP · PostgreSQL
@@ -26,7 +26,7 @@ Delivered a complete accessible web app from brief to release — Django backend
 
 ---
 
-## 📈 Currently learning
+## Currently learning
 
 - 🐼 Pandas, NumPy, Matplotlib — data analysis foundations
 - 🤖 Andrew Ng ML Specialization (Coursera)
