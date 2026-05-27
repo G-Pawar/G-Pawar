@@ -35,7 +35,7 @@ Delivered a complete accessible web app from brief to release — Django backend
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 - 💼 LinkedIn: [linkedin.com/in/gurpreet811](https://linkedin.com/in/gurpreet811)
 - 📧 Email: pawar_gg@outlook.com
